@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Mushroom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Wall
+  - Player
+  - Interactables
+  - Enemies
+  - Enemy Confiner
+  - Hazards
+  - Bullets
+  - Background
+  - Mushroom
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Color
+    uniqueID: 3402022679
+    locked: 0
+  - name: Background
+    uniqueID: 4275864047
+    locked: 0
+  - name: Hazards
+    uniqueID: 1754563005
+    locked: 0
+  - name: Wall
+    uniqueID: 3529866633
+    locked: 0
+  - name: Platform
+    uniqueID: 2867605975
+    locked: 0
+  - name: Ladder
+    uniqueID: 850041155
+    locked: 0
+  - name: Interactables
+    uniqueID: 319786547
+    locked: 0
+  - name: Enemies
+    uniqueID: 125496421
+    locked: 0
+  - name: Bullets
+    uniqueID: 3332666081
+    locked: 0
+  - name: Player
+    uniqueID: 347939221
+    locked: 0
+  - name: Obscurities
+    uniqueID: 412108733
+    locked: 0
